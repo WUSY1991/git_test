@@ -2,3 +2,4 @@ if(git branch1)
 git master
 
 git branch2
+branch1 add fun2
