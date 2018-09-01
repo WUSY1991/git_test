@@ -1,1 +1,1 @@
-git branch1
+if(git branch1)
