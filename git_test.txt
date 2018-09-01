@@ -1,1 +1,4 @@
 if(git branch1)
+git master
+
+git branch2
